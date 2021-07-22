@@ -1,5 +1,5 @@
 # OpenGL-stuff
-this repo is my interpretation of this particular OpenGL tutorial: https://youtu.be/45MIykWJ-C4
+This repo is my interpretation of this particular OpenGL tutorial: https://youtu.be/45MIykWJ-C4
 
 To generate build files and libraries, cd into the root directory and run: cmake . -Bbuild
 
